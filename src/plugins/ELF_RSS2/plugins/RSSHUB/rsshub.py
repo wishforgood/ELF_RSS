@@ -57,6 +57,7 @@ async def getRSS(rss: RSS_class.rss) -> list:  # 链接，订阅名
             async with httpx.AsyncClient(proxies=Proxy) as client:
                 try:
                     r = await client.get(rss.geturl(), timeout=30)
+                    # logger.info(r.content)
                     d = feedparser.parse(r.content)
                 except BaseException as e:
                     logger.error("抓取订阅 {} 的 RSS 失败，E：{}".format(rss.name,e))
@@ -74,7 +75,8 @@ async def getRSS(rss: RSS_class.rss) -> list:  # 链接，订阅名
                                     if d.entries :
                                         logger.info(rss.geturl(rsshub=rsshub_url) + ' 抓取成功！')
                                         break
-                if not d.entries :
+                if not d.entries:
+                    logger.info('no entries')
                     logger.error(rss.name + ' 抓取失败！')
                     return []
                 change = checkUpdate(d, readRss(rss.name))  # 检查更新
@@ -116,6 +118,7 @@ async def getRSS(rss: RSS_class.rss) -> list:  # 链接，订阅名
             async with httpx.AsyncClient(proxies=Proxy) as client:
                 try:
                     r = await client.get(rss.geturl())
+                    logger.info(r.content)
                     d = feedparser.parse(r.content)
                     if r.status_code in status_code:
                         writeRss(d, rss.name)  # 写入文件

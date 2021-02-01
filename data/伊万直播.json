@@ -1,0 +1,177 @@
+{
+    "bozo": false,
+    "encoding": "utf-8",
+    "entries": [
+        {
+            "guidislink": false,
+            "id": "https://live.bilibili.com/22333522 2021-02-01 16:27:35",
+            "link": "https://live.bilibili.com/22333522",
+            "links": [
+                {
+                    "href": "https://live.bilibili.com/22333522",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "published": "Mon, 01 Feb 2021 08:27:35 GMT",
+            "published_parsed": [
+                2021,
+                2,
+                1,
+                8,
+                27,
+                35,
+                0,
+                32,
+                0
+            ],
+            "summary": "还没吃了吧您内<br />",
+            "summary_detail": {
+                "base": "",
+                "language": null,
+                "type": "text/html",
+                "value": "还没吃了吧您内<br />"
+            },
+            "title": "还没吃了吧您内 2021-02-01 16:27:35",
+            "title_detail": {
+                "base": "",
+                "language": null,
+                "type": "text/plain",
+                "value": "还没吃了吧您内 2021-02-01 16:27:35"
+            }
+        },
+        {
+            "guidislink": false,
+            "id": "https://live.bilibili.com/22333522 2021-01-31 14:55:31",
+            "link": "https://live.bilibili.com/22333522",
+            "links": [
+                {
+                    "href": "https://live.bilibili.com/22333522",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "published": "Sun, 31 Jan 2021 06:55:31 GMT",
+            "published_parsed": [
+                2021,
+                1,
+                31,
+                6,
+                55,
+                31,
+                6,
+                31,
+                0
+            ],
+            "summary": "吃了么您内<br />",
+            "summary_detail": {
+                "base": "",
+                "language": null,
+                "type": "text/html",
+                "value": "吃了么您内<br />"
+            },
+            "title": "吃了么您内 2021-01-31 14:55:31",
+            "title_detail": {
+                "base": "",
+                "language": null,
+                "type": "text/plain",
+                "value": "吃了么您内 2021-01-31 14:55:31"
+            }
+        },
+        {
+            "guidislink": false,
+            "id": "https://live.bilibili.com/22333522 2021-01-30 22:28:00",
+            "link": "https://live.bilibili.com/22333522",
+            "links": [
+                {
+                    "href": "https://live.bilibili.com/22333522",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "published": "Sat, 30 Jan 2021 14:28:00 GMT",
+            "published_parsed": [
+                2021,
+                1,
+                30,
+                14,
+                28,
+                0,
+                5,
+                30,
+                0
+            ],
+            "summary": "突突突突突突突突击<br />",
+            "summary_detail": {
+                "base": "",
+                "language": null,
+                "type": "text/html",
+                "value": "突突突突突突突突击<br />"
+            },
+            "title": "突突突突突突突突击 2021-01-30 22:28:00",
+            "title_detail": {
+                "base": "",
+                "language": null,
+                "type": "text/plain",
+                "value": "突突突突突突突突击 2021-01-30 22:28:00"
+            }
+        }
+    ],
+    "feed": {
+        "generator": "RSSHub",
+        "generator_detail": {
+            "name": "RSSHub"
+        },
+        "language": "zh-cn",
+        "link": "https://live.bilibili.com/22333522",
+        "links": [
+            {
+                "href": "https://live.bilibili.com/22333522",
+                "rel": "alternate",
+                "type": "text/html"
+            },
+            {
+                "href": "http://101.32.194.161:1200/bilibili/live/room/22333522",
+                "rel": "self",
+                "type": "application/rss+xml"
+            }
+        ],
+        "publisher": "i@diygod.me (DIYgod)",
+        "publisher_detail": {
+            "email": "i@diygod.me",
+            "name": "DIYgod"
+        },
+        "subtitle": "伊万_iiivan 直播间开播状态 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)",
+        "subtitle_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "伊万_iiivan 直播间开播状态 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"
+        },
+        "title": "伊万_iiivan 直播间开播状态",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "伊万_iiivan 直播间开播状态"
+        },
+        "ttl": "5",
+        "updated": "Sat, 30 Jan 2021 06:20:04 GMT",
+        "updated_parsed": [
+            2021,
+            1,
+            30,
+            6,
+            20,
+            4,
+            5,
+            30,
+            0
+        ]
+    },
+    "headers": {},
+    "namespaces": {
+        "": "http://www.w3.org/2005/Atom"
+    },
+    "version": "rss20"
+}

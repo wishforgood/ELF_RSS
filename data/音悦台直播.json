@@ -1,0 +1,101 @@
+{
+    "bozo": false,
+    "encoding": "utf-8",
+    "entries": [
+        {
+            "guidislink": false,
+            "id": "https://live.bilibili.com/23058 2020-04-13 15:17:09",
+            "link": "https://live.bilibili.com/23058",
+            "links": [
+                {
+                    "href": "https://live.bilibili.com/23058",
+                    "rel": "alternate",
+                    "type": "text/html"
+                }
+            ],
+            "published": "Mon, 13 Apr 2020 07:17:09 GMT",
+            "published_parsed": [
+                2020,
+                4,
+                13,
+                7,
+                17,
+                9,
+                0,
+                104,
+                0
+            ],
+            "summary": "哔哩哔哩音悦台<br /><p>这里是哔哩哔哩官方音乐台喔！</p><p>一起来听音乐吧ε=ε=(ノ≧∇≦)ノ</p><p>没想到蒸汽配圣诞下装，意外的很暴露呢=3=</p>",
+            "summary_detail": {
+                "base": "",
+                "language": null,
+                "type": "text/html",
+                "value": "哔哩哔哩音悦台<br /><p>这里是哔哩哔哩官方音乐台喔！</p><p>一起来听音乐吧ε=ε=(ノ≧∇≦)ノ</p><p>没想到蒸汽配圣诞下装，意外的很暴露呢=3=</p>"
+            },
+            "title": "哔哩哔哩音悦台 2020-04-13 15:17:09",
+            "title_detail": {
+                "base": "",
+                "language": null,
+                "type": "text/plain",
+                "value": "哔哩哔哩音悦台 2020-04-13 15:17:09"
+            }
+        }
+    ],
+    "feed": {
+        "generator": "RSSHub",
+        "generator_detail": {
+            "name": "RSSHub"
+        },
+        "language": "zh-cn",
+        "link": "https://live.bilibili.com/23058",
+        "links": [
+            {
+                "href": "https://live.bilibili.com/23058",
+                "rel": "alternate",
+                "type": "text/html"
+            },
+            {
+                "href": "http://101.32.194.161:1200/bilibili/live/room/3",
+                "rel": "self",
+                "type": "application/rss+xml"
+            }
+        ],
+        "publisher": "i@diygod.me (DIYgod)",
+        "publisher_detail": {
+            "email": "i@diygod.me",
+            "name": "DIYgod"
+        },
+        "subtitle": "3号直播间 直播间开播状态 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)",
+        "subtitle_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/html",
+            "value": "3号直播间 直播间开播状态 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"
+        },
+        "title": "3号直播间 直播间开播状态",
+        "title_detail": {
+            "base": "",
+            "language": null,
+            "type": "text/plain",
+            "value": "3号直播间 直播间开播状态"
+        },
+        "ttl": "5",
+        "updated": "Sat, 30 Jan 2021 10:37:34 GMT",
+        "updated_parsed": [
+            2021,
+            1,
+            30,
+            10,
+            37,
+            34,
+            5,
+            30,
+            0
+        ]
+    },
+    "headers": {},
+    "namespaces": {
+        "": "http://www.w3.org/2005/Atom"
+    },
+    "version": "rss20"
+}
